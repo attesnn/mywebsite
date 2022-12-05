@@ -1,4 +1,6 @@
-document.addEventListener("DOMContetLoaded", event =>);
+document.addEventListener("DOMContetLoaded", event => {
 
-    const = app = firebase.app();
+    const app = firebase.app();
     console.log(app)
+
+});
